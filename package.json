@@ -10,7 +10,7 @@
   "author": "Talip",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "^1.6.0",
     "axos": "^0.0.1",
     "node-fetch": "^3.2.6",
     "slugify": "^1.6.5"
